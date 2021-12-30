@@ -1,8 +1,8 @@
 ## Olá, Sou um Desenvolvedor FullStack Java Web, Estou em Buscas de Novas oportunidades é desafios com Java utilizando microservições ou aplicações escalaveis 😎
 <div align="center">
   <a href="https://github.com/Brayinha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brayinha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayinha&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brayinha&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayinha&layout=compact&langs_count=7&theme=aura"/>
 </div>
  <div style="display: inline_block"><br>
    <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
