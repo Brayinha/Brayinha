@@ -1,9 +1,12 @@
-## Olá, Sou um Desenvolvedor FullStack Java Web, Estou em Buscas de Novas oportunidades é desafios com Java utilizando microservições ou aplicações escalaveis 😎
+## Olá, Sou um Desenvolvedor FullStack Java Web, Estou em Buscas de Novas Oportunidades é desafios com Java utilizando microservições ou aplicações escalaveis 😎
 <div align="center">
   <a href="https://github.com/Brayinha">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Brayinha&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayinha&layout=compact&langs_count=7&theme=aura"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayinha&layout=compact&langs_count=7&theme=aura"/>  
 </div>
+  
+  ##
+  
  <div style="display: inline_block"><br>
    <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
    <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
@@ -16,7 +19,6 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
-   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
